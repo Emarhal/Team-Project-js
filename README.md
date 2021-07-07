@@ -1,1 +1,1 @@
-# Team-Project-js
+# JS-project-team-1
